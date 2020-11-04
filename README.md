@@ -1,2 +1,2 @@
-# SIM3IL-lecture-2
+# SIM3IL Second Lecture
 First steps with GitHub
